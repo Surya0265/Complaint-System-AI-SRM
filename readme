@@ -1,0 +1,1 @@
+AI-powered complaint system where users can submit complaints using images. The system extracts text from the image, categorizes it by department, and stores it in a separate database. It leverages Gemini to generate descriptions of the images for better processing. The project is efficient, user-friendly, and designed to streamline complaint management.
